@@ -1,5 +1,5 @@
-# opendata bari
-dati geografici dal portale open data del comune di bari convertiti in geojson.
+# geojson città di Bari
+dati geografici dal portale open data del comune di Bari convertiti in geojson.
 
 Data di creazione: 16/03/2021
 
